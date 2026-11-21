@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: niuean-restitution-roadmap-and-qsf-trust-execution
-  name: Niuean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/niuean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_nu_001
+    name: Niue Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_002
+    name: Niue Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_003
+    name: Niue Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_004
+    name: Niue Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_005
+    name: Niue Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_006
+    name: Niue Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_007
+    name: Niue Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_008
+    name: Niue Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_009
+    name: Niue Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_010
+    name: Niue Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_011
+    name: Niue Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_012
+    name: Niue Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_013
+    name: Niue Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_014
+    name: Niue Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_015
+    name: Niue Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_016
+    name: Niue Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_017
+    name: Niue Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_018
+    name: Niue Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_019
+    name: Niue Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_020
+    name: Niue Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_021
+    name: Niue Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_022
+    name: Niue Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_023
+    name: Niue Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_024
+    name: Niue Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_025
+    name: Niue Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_026
+    name: Niue Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_027
+    name: Niue Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_028
+    name: Niue Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_029
+    name: Niue Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_030
+    name: Niue Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_031
+    name: Niue Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_032
+    name: Niue Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_033
+    name: Niue Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_034
+    name: Niue Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_035
+    name: Niue Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_036
+    name: Niue Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_037
+    name: Niue Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_038
+    name: Niue Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_039
+    name: Niue Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_040
+    name: Niue Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_041
+    name: Niue Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_042
+    name: Niue Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_043
+    name: Niue Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_044
+    name: Niue Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_045
+    name: Niue Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_046
+    name: Niue Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_047
+    name: Niue Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_048
+    name: Niue Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_049
+    name: Niue Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_050
+    name: Niue Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_051
+    name: Niue Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_052
+    name: Niue Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_053
+    name: Niue Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_054
+    name: Niue Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_055
+    name: Niue Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_056
+    name: Niue Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_057
+    name: Niue Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_058
+    name: Niue Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_059
+    name: Niue Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_060
+    name: Niue Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_061
+    name: Niue Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_062
+    name: Niue Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_063
+    name: Niue Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_064
+    name: Niue Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_065
+    name: Niue Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_066
+    name: Niue Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_067
+    name: Niue Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_068
+    name: Niue Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_069
+    name: Niue Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_070
+    name: Niue Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_071
+    name: Niue Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_072
+    name: Niue Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_073
+    name: Niue Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_074
+    name: Niue Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_075
+    name: Niue Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_076
+    name: Niue Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_077
+    name: Niue Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_078
+    name: Niue Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_079
+    name: Niue Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_080
+    name: Niue Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_081
+    name: Niue Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_082
+    name: Niue Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_083
+    name: Niue Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_084
+    name: Niue Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_085
+    name: Niue Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_086
+    name: Niue Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_087
+    name: Niue Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_088
+    name: Niue Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_089
+    name: Niue Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_090
+    name: Niue Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_091
+    name: Niue Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_092
+    name: Niue Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_093
+    name: Niue Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_094
+    name: Niue Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_095
+    name: Niue Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_096
+    name: Niue Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_097
+    name: Niue Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_098
+    name: Niue Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_099
+    name: Niue Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_100
+    name: Niue Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_101
+    name: Niue Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_102
+    name: Niue Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_103
+    name: Niue Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_104
+    name: Niue Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_105
+    name: Niue Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_106
+    name: Niue Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_107
+    name: Niue Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_108
+    name: Niue Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_109
+    name: Niue Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_110
+    name: Niue Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_111
+    name: Niue Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_112
+    name: Niue Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_113
+    name: Niue Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_114
+    name: Niue Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_115
+    name: Niue Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_116
+    name: Niue Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_117
+    name: Niue Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_118
+    name: Niue Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_119
+    name: Niue Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_120
+    name: Niue Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_121
+    name: Niue Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_122
+    name: Niue Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_123
+    name: Niue Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_124
+    name: Niue Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_125
+    name: Niue Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_126
+    name: Niue Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_127
+    name: Niue Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_128
+    name: Niue Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_129
+    name: Niue Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_130
+    name: Niue Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_131
+    name: Niue Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_132
+    name: Niue Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_133
+    name: Niue Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_134
+    name: Niue Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_135
+    name: Niue Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_136
+    name: Niue Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_137
+    name: Niue Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_138
+    name: Niue Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_139
+    name: Niue Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_140
+    name: Niue Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_141
+    name: Niue Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_142
+    name: Niue Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_143
+    name: Niue Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_144
+    name: Niue Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_145
+    name: Niue Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_146
+    name: Niue Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_147
+    name: Niue Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_148
+    name: Niue Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_149
+    name: Niue Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_150
+    name: Niue Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_151
+    name: Niue Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_152
+    name: Niue Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_153
+    name: Niue Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_154
+    name: Niue Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_155
+    name: Niue Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_156
+    name: Niue Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_157
+    name: Niue Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_158
+    name: Niue Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_159
+    name: Niue Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_160
+    name: Niue Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_161
+    name: Niue Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_162
+    name: Niue Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_163
+    name: Niue Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_164
+    name: Niue Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_165
+    name: Niue Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_166
+    name: Niue Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_167
+    name: Niue Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_168
+    name: Niue Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_169
+    name: Niue Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_170
+    name: Niue Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_171
+    name: Niue Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_172
+    name: Niue Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_173
+    name: Niue Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_174
+    name: Niue Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_175
+    name: Niue Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_176
+    name: Niue Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_177
+    name: Niue Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_178
+    name: Niue Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_179
+    name: Niue Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_180
+    name: Niue Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_181
+    name: Niue Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_182
+    name: Niue Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_183
+    name: Niue Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_184
+    name: Niue Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_185
+    name: Niue Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_186
+    name: Niue Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_187
+    name: Niue Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_188
+    name: Niue Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_189
+    name: Niue Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_190
+    name: Niue Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_191
+    name: Niue Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_192
+    name: Niue Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_193
+    name: Niue Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_194
+    name: Niue Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_195
+    name: Niue Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_196
+    name: Niue Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_197
+    name: Niue Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_198
+    name: Niue Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_199
+    name: Niue Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_200
+    name: Niue Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_201
+    name: Niue Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_202
+    name: Niue Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_203
+    name: Niue Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_204
+    name: Niue Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_205
+    name: Niue Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_206
+    name: Niue Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_207
+    name: Niue Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_208
+    name: Niue Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_209
+    name: Niue Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_210
+    name: Niue Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_211
+    name: Niue Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_212
+    name: Niue Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_213
+    name: Niue Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_214
+    name: Niue Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_215
+    name: Niue Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_216
+    name: Niue Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_217
+    name: Niue Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_218
+    name: Niue Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_219
+    name: Niue Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_220
+    name: Niue Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_221
+    name: Niue Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_222
+    name: Niue Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_223
+    name: Niue Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_224
+    name: Niue Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_225
+    name: Niue Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_226
+    name: Niue Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_227
+    name: Niue Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_228
+    name: Niue Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_229
+    name: Niue Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_230
+    name: Niue Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_231
+    name: Niue Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_232
+    name: Niue Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_233
+    name: Niue Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_234
+    name: Niue Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_235
+    name: Niue Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_236
+    name: Niue Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_237
+    name: Niue Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_238
+    name: Niue Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_239
+    name: Niue Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_240
+    name: Niue Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_241
+    name: Niue Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_242
+    name: Niue Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_243
+    name: Niue Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_244
+    name: Niue Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_245
+    name: Niue Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_246
+    name: Niue Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_247
+    name: Niue Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_248
+    name: Niue Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_249
+    name: Niue Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_250
+    name: Niue Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_251
+    name: Niue Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_nu_252
+    name: Niue Skill 252
+    status: ACTIVE_SCAFFOLD

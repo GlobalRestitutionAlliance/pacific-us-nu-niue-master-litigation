@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-niue-canal-and-intervention-historian
-  name: Niue Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-niue-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_nu_001
+    name: Niue Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_002
+    name: Niue Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_003
+    name: Niue Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_004
+    name: Niue Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_005
+    name: Niue Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_006
+    name: Niue Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_007
+    name: Niue Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_008
+    name: Niue Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_009
+    name: Niue Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_010
+    name: Niue Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_011
+    name: Niue Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_012
+    name: Niue Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_013
+    name: Niue Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_014
+    name: Niue Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_015
+    name: Niue Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_016
+    name: Niue Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_017
+    name: Niue Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_018
+    name: Niue Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_019
+    name: Niue Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_020
+    name: Niue Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_021
+    name: Niue Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_022
+    name: Niue Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_023
+    name: Niue Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_024
+    name: Niue Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_025
+    name: Niue Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_026
+    name: Niue Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_027
+    name: Niue Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_028
+    name: Niue Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_029
+    name: Niue Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_030
+    name: Niue Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_031
+    name: Niue Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_032
+    name: Niue Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_033
+    name: Niue Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_034
+    name: Niue Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_035
+    name: Niue Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_036
+    name: Niue Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_037
+    name: Niue Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_038
+    name: Niue Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_039
+    name: Niue Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_040
+    name: Niue Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_041
+    name: Niue Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_042
+    name: Niue Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_043
+    name: Niue Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_044
+    name: Niue Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_045
+    name: Niue Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_046
+    name: Niue Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_047
+    name: Niue Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_048
+    name: Niue Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_049
+    name: Niue Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_050
+    name: Niue Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_051
+    name: Niue Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_052
+    name: Niue Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_053
+    name: Niue Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_054
+    name: Niue Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_055
+    name: Niue Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_056
+    name: Niue Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_057
+    name: Niue Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_058
+    name: Niue Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_059
+    name: Niue Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_060
+    name: Niue Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_061
+    name: Niue Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_062
+    name: Niue Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_063
+    name: Niue Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_064
+    name: Niue Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_065
+    name: Niue Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_066
+    name: Niue Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_067
+    name: Niue Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_068
+    name: Niue Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_069
+    name: Niue Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_070
+    name: Niue Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_071
+    name: Niue Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_072
+    name: Niue Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_073
+    name: Niue Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_074
+    name: Niue Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_075
+    name: Niue Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_076
+    name: Niue Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_077
+    name: Niue Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_078
+    name: Niue Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_079
+    name: Niue Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_080
+    name: Niue Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_081
+    name: Niue Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_082
+    name: Niue Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_083
+    name: Niue Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_084
+    name: Niue Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_085
+    name: Niue Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_086
+    name: Niue Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_087
+    name: Niue Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_088
+    name: Niue Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_089
+    name: Niue Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_090
+    name: Niue Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_091
+    name: Niue Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_092
+    name: Niue Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_093
+    name: Niue Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_094
+    name: Niue Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_095
+    name: Niue Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_096
+    name: Niue Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_097
+    name: Niue Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_098
+    name: Niue Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_099
+    name: Niue Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_100
+    name: Niue Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_101
+    name: Niue Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_102
+    name: Niue Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_103
+    name: Niue Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_104
+    name: Niue Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_105
+    name: Niue Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_106
+    name: Niue Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_107
+    name: Niue Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_108
+    name: Niue Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_109
+    name: Niue Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_110
+    name: Niue Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_111
+    name: Niue Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_112
+    name: Niue Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_113
+    name: Niue Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_114
+    name: Niue Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_115
+    name: Niue Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_116
+    name: Niue Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_117
+    name: Niue Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_118
+    name: Niue Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_119
+    name: Niue Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_120
+    name: Niue Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_121
+    name: Niue Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_122
+    name: Niue Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_123
+    name: Niue Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_124
+    name: Niue Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_125
+    name: Niue Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_126
+    name: Niue Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_127
+    name: Niue Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_128
+    name: Niue Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_129
+    name: Niue Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_130
+    name: Niue Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_131
+    name: Niue Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_132
+    name: Niue Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_133
+    name: Niue Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_134
+    name: Niue Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_135
+    name: Niue Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_136
+    name: Niue Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_137
+    name: Niue Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_138
+    name: Niue Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_139
+    name: Niue Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_140
+    name: Niue Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_141
+    name: Niue Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_142
+    name: Niue Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_143
+    name: Niue Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_144
+    name: Niue Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_145
+    name: Niue Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_146
+    name: Niue Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_147
+    name: Niue Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_148
+    name: Niue Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_149
+    name: Niue Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_150
+    name: Niue Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_151
+    name: Niue Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_152
+    name: Niue Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_153
+    name: Niue Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_154
+    name: Niue Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_155
+    name: Niue Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_156
+    name: Niue Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_157
+    name: Niue Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_158
+    name: Niue Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_159
+    name: Niue Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_160
+    name: Niue Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_161
+    name: Niue Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_162
+    name: Niue Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_163
+    name: Niue Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_164
+    name: Niue Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_165
+    name: Niue Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_166
+    name: Niue Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_167
+    name: Niue Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_168
+    name: Niue Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_169
+    name: Niue Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_nu_170
+    name: Niue Agent 170
+    status: ACTIVE_SCAFFOLD
